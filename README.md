@@ -1,5 +1,6 @@
 # Recursive-Maze-Solver
 CSCI 235 
+for more information see hw3.pdf
 
 README
 
